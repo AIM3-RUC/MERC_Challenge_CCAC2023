@@ -82,9 +82,13 @@
 
 - 顾问委员会成员：王素格、赵妍妍、杨亮
 
+## 会务组成员
+
+- 张腾甘（[zhangtenggan@ruc.edu.cn](mailto:zhangtenggan@ruc.edu.cn)）、黄兆培（[huangzhaopei@ruc.edu.cn](mailto:huangzhaopei@ruc.edu.cn)）、孙雷（[leisun@ruc.edu.cn](mailto:leisun@ruc.edu.cn)）
+
 ## 联系方式
 
- 如有疑问，请致信评测会务组：[zhaojinming@ruc.edu.cn](mailto:zhaojinming@ruc.edu.cn) / [qjin@ruc.edu.cn](mailto:qjin@ruc.edu.cn)
+ 如有疑问，请致信评测会务组：[zhangtenggan@ruc.edu.cn](mailto:zhangtenggan@ruc.edu.cn) / [huangzhaopei@ruc.edu.cn](mailto:huangzhaopei@ruc.edu.cn) / [leisun@ruc.edu.cn](mailto:leisun@ruc.edu.cn)
 
 ## 参考资料与文献
 
