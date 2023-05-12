@@ -86,7 +86,7 @@
 
 ## 会务组成员
 
-- 张腾甘（[zhangtenggan@ruc.edu.cn](mailto:zhangtenggan@ruc.edu.cn)）、黄兆培（[huangzhaopei@ruc.edu.cn](mailto:huangzhaopei@ruc.edu.cn)）、孙雷（[leisun@ruc.edu.cn](mailto:leisun@ruc.edu.cn)）
+- 张腾甘（[zhangtenggan@ruc.edu.cn](mailto:zhangtenggan@ruc.edu.cn)）、张鑫洁（[zhangxinjie827@ruc.edu.cn](mailto:zhangxinjie827@ruc.edu.cn)）、黄兆培（[huangzhaopei@ruc.edu.cn](mailto:huangzhaopei@ruc.edu.cn)）、孙雷（[leisun@ruc.edu.cn](mailto:leisun@ruc.edu.cn)）
 
 ## 联系方式
 
