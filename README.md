@@ -74,7 +74,7 @@
 | 提交截止（报名结束） | 2023年6月10日 |
 | 比赛结果公布         | 2022年6月15日 |
 
-训练集与验证集数据已通过报名邮箱发布，如有疑问请联系[zhangtenggan@ruc.edu.cn](mailto:zhangtenggan@ruc.edu.cn)
+训练集、验证集与测试集数据均已通过报名邮箱发布，如有疑问请联系[zhangtenggan@ruc.edu.cn](mailto:zhangtenggan@ruc.edu.cn)
 
 ## 评委会成员
 
