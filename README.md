@@ -84,7 +84,7 @@
 | 第一名 | SUST-EiAi-TEAM                 | 陈海丰，李晶，张倩，郭楚佳，白义民，陈景霞 | 0.5657       | [展示PPT](./presentations/1-SUST-EiAi-TEAM-报告.pdf)         | [系统报告](./reports/SUST-EiAi-TEAM-MERC2023.pdf)   | https://github.com/Sunner4nwpu/merc2023 |
 | 第二名 | 北京邮电大学-AI4AI             | 李启飞，王聪，任一鸣，王栋，高迎明，李雅   | 0.5273       | [展示PPT](./presentations/2-北邮AI4AI-情感计算大会-多模态情感识别竞赛.pdf) | -                                                   | -                                       |
 | 第三名 | 哈工大计算学部语言技术研究中心 | 赵志龙，胥卜凡，徐冰                       | 0.5038       | [展示PPT](./presentations/3-HIT_ccac2023_MERC_rank3汇报.pdf) | [系统报告](./reports/ccac2023-MERC评测技术报告.pdf) | https://github.com/dragonzzl/MERC_rank3 |
-| 第四名 | nustm                          | 郑文杰，虞剑飞，夏睿                       | 0.4946       | [展示PPT](./presentations/4-NUSTM.pdf)                       | -                                                   | -                                       |
+| 第四名 | nustm                          | 郑文杰，虞剑飞，夏睿                       | 0.4946       | [展示PPT](./presentations/4-NUSTM.pdf)                       | [系统报告](https://aclanthology.org/2023.acl-long.861.pdf)                                                   |  https://github.com/NUSTM/FacialMMT        |
 | 第五名 | ZUT                            | 李晨阳，陈紫薇，赵中杰，郭徽，张龙         | 0.4827       | [展示PPT](./presentations/5-ZUT.pdf)                         | -                                                   | -                                       |
 
 ## 评测论坛安排
